@@ -11,6 +11,9 @@ Standards for CEvNS data sharing and releases
   - Code should be restricted to common languages (ex. Python)
 - Collaborations should plan for data releases to be done in a timely fashing
   - Without an external agency enforcing such requirements, this must manifest as an internal requirement for publications
+- The burden of effort will be on the students and postdocs; it may be worthwhile to make data release preparation a communal effort
+  - We could organize a session along side the next "Magnificent CEvNS" where students/postdocs can share their experience and work together on data-release efforts
+  - Associating data-release preparation with a community / networking opportunity may help people to become more engaged with it
 
 ## Other points from "Magnificent CEvNS 2024"
 - Matrix elements and other such calculations should be shared and released
